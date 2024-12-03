@@ -1,0 +1,20 @@
+/* App.module.css */
+.app {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff; /* Fondo claro */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+}
+
+header, footer {
+  margin: 0;
+  padding: 10px 0;
+  background-color: #4CAF50; /* Verde para Header y Footer */
+  color: white;
+  text-align: center;
+  font-size: 1.2rem;
+}
